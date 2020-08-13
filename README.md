@@ -1,2 +1,3 @@
 # js-starter
-A starter kit for JavaScript
+
+A dev-env starter kit for JavaScript
